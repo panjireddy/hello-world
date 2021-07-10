@@ -1,1 +1,1 @@
-<center> <h1> Hello, Welcome to Simple DevOps Project !!   </h1>
+<center> <h1> Hello, This is Tomcat Server Deployment   </h1>
